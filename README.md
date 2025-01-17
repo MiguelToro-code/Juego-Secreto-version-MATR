@@ -5,3 +5,5 @@ También se informa al jugados la cantidad de intentos que tiene y cuántos le v
 También se otorgan puntos de premio según la rapidez con que se acierte y según la cantidad de números posibles restantes
 
 También se van acumulando y mostrando los puntos ganados a través de los juegos.
+
+Aún necesita algunas modificaciones para ser completamente funcional, pero es lo hice con lo aprendido hasta ahora.
