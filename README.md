@@ -7,3 +7,5 @@ También se otorgan puntos de premio según la rapidez con que se acierte y seg�
 También se van acumulando y mostrando los puntos ganados a través de los juegos.
 
 Aún necesita algunas modificaciones para ser completamente funcional, pero es lo hice con lo aprendido hasta ahora.
+
+El juego fue subiro a GitHub para que otras personas lo prueben y comenten
